@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         share = findViewById(R.id.btnShare);
         quotes = findViewById(R.id.tvQuotes);
 
-        getSupportActionBar().hide();
         share.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
