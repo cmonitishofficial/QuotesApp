@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+    <string name="quote">Quotes :</string>
+    <string name="share">Share Option : </string>
+    <string name="description">Success is a lousy teacher. It seduces smart people into thinking they cannot lose.</string>
+    <string name="bill_gates">Bill Gates</string>
+</resources>
